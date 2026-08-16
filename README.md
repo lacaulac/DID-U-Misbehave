@@ -11,9 +11,9 @@ The mapping between behaviour names and the numbers that represent them in the p
 |FILE_WRITE|3|
 |COPY|4|
 |NET_COMS|5|
-|NET_CFG|6|
-|NET_INFO|7|
-|SYS_INFO|8|
-|FS_INFO|9|
-|FS_OP|10|
-|ARG_FILE|11|
+|SYS_INFO|6|
+|FS_INFO|7|
+|NET_INFO|8|
+|FS_OP|9|
+|ARG_FILE|10|
+|NET_CFG|11|
